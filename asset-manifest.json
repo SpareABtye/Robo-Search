@@ -1,16 +1,15 @@
 {
   "files": {
-    "main.css": "/Robo-Search/static/css/main.937c46db.css",
-    "main.js": "/Robo-Search/static/js/main.3326816e.js",
-    "static/js/787.cd7d828c.chunk.js": "/Robo-Search/static/js/787.cd7d828c.chunk.js",
-    "static/media/SEGA.woff": "/Robo-Search/static/media/SEGA.47b4bfa94ef243af4a5b.woff",
-    "index.html": "/Robo-Search/index.html",
-    "main.937c46db.css.map": "/Robo-Search/static/css/main.937c46db.css.map",
-    "main.3326816e.js.map": "/Robo-Search/static/js/main.3326816e.js.map",
-    "787.cd7d828c.chunk.js.map": "/Robo-Search/static/js/787.cd7d828c.chunk.js.map"
+    "main.css": "/Portfolio/static/css/main.e6c13ad2.css",
+    "main.js": "/Portfolio/static/js/main.befbe92d.js",
+    "static/js/787.1ed0c42c.chunk.js": "/Portfolio/static/js/787.1ed0c42c.chunk.js",
+    "index.html": "/Portfolio/index.html",
+    "main.e6c13ad2.css.map": "/Portfolio/static/css/main.e6c13ad2.css.map",
+    "main.befbe92d.js.map": "/Portfolio/static/js/main.befbe92d.js.map",
+    "787.1ed0c42c.chunk.js.map": "/Portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.937c46db.css",
-    "static/js/main.3326816e.js"
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.befbe92d.js"
   ]
 }
