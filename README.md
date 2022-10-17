@@ -2,4 +2,4 @@
 
 https://bboston2008.github.io/Robo-Search/
 
-This is an animated robot profile search. It will filter through names as you type.
+This is a project built with 'Zero to Mastery: Complete Web Developer'. This is a project built along with the curriculum to learn the basics of React.js.
